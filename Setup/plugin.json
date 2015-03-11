@@ -1,0 +1,16 @@
+{
+    "title": "Split Colorbox lightbox",
+    "version": "1.00",
+    "name": "SplitColorbox",
+    "description": "Open images in a nice lightbox. Instead of groupping all images on a page in a single lightbox, this plugin shows each widget as a separate gallery.",
+    "author": "ImpressPages",
+    "options": [
+        {
+            "label": "Style",
+            "name": "style",
+            "type": "Select",
+            "values": [["1", "Default dark"], ["2", "Minimalistic"], ["3", "Black"], ["4", "White"], ["5", "Extra border"]],
+            "default": "1"
+        }
+    ]
+}
